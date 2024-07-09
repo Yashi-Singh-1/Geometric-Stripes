@@ -4,7 +4,7 @@
 
 <p>Welcome to the Geometric Shapes Challenge repository! This project is a demonstration of creating visually appealing layouts using HTML and CSS, focusing on geometric shapes and overlays. </p>
 
-</h2>Overview</h2>
+<h2>Overview</h2>
 <p>In this challenge, we explore the creation of complex visual layouts by strategically positioning and layering colored blocks (div elements) and overlays (div elements). Each element is styled using CSS to achieve precise dimensions, positions, and z-index arrangements.</p>
 
 <h2>Preview</h2>
